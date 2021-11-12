@@ -38,7 +38,7 @@ const Particle = () => {
                 distance: 400,
                 duration: 2,
                 opacity: 0.6,
-                size: 40,
+                size: 20,
               },
               push: {
                 quantity: 4,
@@ -51,10 +51,10 @@ const Particle = () => {
           },
           particles: {
             color: {
-              value: "#ffffff",
+              value: "#a4e8e9",
             },
             links: {
-              color: "#ffffff",
+              color: "#a4e8e9",
               distance: 150,
               enable: true,
               opacity: 0.3,

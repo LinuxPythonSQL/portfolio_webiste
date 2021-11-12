@@ -8,13 +8,13 @@ const Header = () => {
                     <div className="typed-text">                       
                         <Typewriter
                             options={{
-                                strings: ["Data Analysis", "Data Visualization", "Business Analyst"],
+                                strings: ["Data Analysis", "Data Visualization", "Numpy", "Pandas", "Python", "SQL"],
                                 autoStart: true,
                                 loop: true,
                             }}
                         />
                     </div>
-                    <a href="#" className="btn-main-offer">Contact Me</a> 
+                    <a href="#" className="btn-main-offer">Contact Me</a>
             </div> 
         </div>
     )
