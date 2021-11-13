@@ -12,7 +12,7 @@ const AboutMe = () => {
                     <div className="col-lg-6 col-xm-12">
                         <h1 className="about-heading">About Me</h1>
                         <p>
-                            Hello World! My name is Jason Lim. I'm a Data Analyst/Data Scientist
+                            Hello World! My name is Jason Lim. I'm a Data Analyst/Data Scientist. I started my journey in 2019 where I was presented with a task with only a couple excel workbooks.
                         </p>
                     </div>
             </div>
